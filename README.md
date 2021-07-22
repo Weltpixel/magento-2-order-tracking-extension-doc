@@ -414,10 +414,10 @@ Woohoo, the extension is installed!
 <h2>HOW TO UPGRADE THE EXTENSION.</h2>
 <ul>
   <p>
-    Step 1. Remove extension code under app/code/WeSupply/Toolbox before adding the new extension files. The extension may be refactored and old unused files may cause random issues so it's best to only keep the latest version of the files.
+    Step 1: Remove extension code under app/code/WeSupply/Toolbox before adding the new extension files. The extension may be refactored and old unused files may cause random issues so it's best to only keep the latest version of the files.
   </p>
   <p>
-    Step 2. Follow normal installation instructions above.
+    Step 2: Follow normal installation instructions above.
   </p>
 </ul>
   </td>
