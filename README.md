@@ -393,8 +393,12 @@ app/code/WeSupply/Toolbox
 <p>
 Step 3:
 Access the root of your magento 2 project from command line and run the following commands:
-php bin/magento module:enable WeSupply_Toolbox --clear-static-content
-php bin/magento setup:upgrade
+ <p>
+      <strong>php bin/magento module:enable WeSupply_Toolbox --clear-static-content</strong>
+    </p>
+    <p>
+<strong>php bin/magento setup:upgrade</strong>
+</p>
 </p>
 <p>
 Step 4:
